@@ -1,1 +1,1 @@
-# mod2-project
+# blog-app
